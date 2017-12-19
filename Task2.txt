@@ -1,0 +1,39 @@
+Commands:
+
+1. pwd - Shows current directory
+[~]$ date
+/home/acadgild
+
+2. vi - To open a file in text editor
+[~]$ vi /home/acadgild/Desktop/max-temp.txt
+
+3. touch - Change file access and modification times
+[~]$ touch /home/acadgild/Desktop/max-temp1.txt
+
+4. mkdir - To create a new directory
+[~]$ mkdir <folder name & path>
+
+5. rm - Remove a file or directory
+[~]$ rm <folder or file name & path>
+
+6. ls - List files or folder
+[~]$ ls
+
+7. echo - Allows a user to repeat or echo a string variable
+[~]$ echo Hello World
+
+8. cat - used to display the contents of the file
+[~]$ cat /home/acadgild/Desktop/max-temp.txt
+
+9. who - shows a list of all the users currently logged into the system
+
+10.cd - to go inside a directory or change directory
+
+11.date - Display the date and time
+[~]$ date
+Tue Dec 19 16:47:32 IST 2017
+
+12.cal - Displays a simple formatted calendar
+13.mv - Move files or directories
+14.cp - Copy files or directories
+15.which - Returns the pathnames of the files which would be executed in the current environment
